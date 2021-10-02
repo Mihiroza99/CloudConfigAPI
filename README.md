@@ -1,2 +1,2 @@
 # CloudConfigAPI
-Created Cloudconfigurator APIS
+API Project for CloudConfigurator
